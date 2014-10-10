@@ -17,6 +17,7 @@ public class SunghoProject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.Out.Println("Hello World");
     }
     
 }
